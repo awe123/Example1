@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Example1</string>
+    <string name="image_background">img_bckgrnd</string>
+    <string name="text_header">митровский биспридел</string>
+    <string name="button_1">button1txt</string>
+    <string name="button_2">button2txt</string>
+    <string name="button_3">button3txt</string>
+    <string name="button_4">button4txt</string>
+    <string name="button_quit">QUIT</string>
+
+
+</resources>
